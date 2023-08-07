@@ -1,0 +1,5 @@
+outs:
+- md5: 69dc97dd535043e3df7d4a9f9a4ced3e.dir
+  size: 33912565248
+  nfiles: 142
+  path: sweep

@@ -1,0 +1,4 @@
+[core]
+    remote = sc1
+['remote "sc1"']
+    url = ssh://shuaicpu1/export/d3/alex/dvcstore/debfa

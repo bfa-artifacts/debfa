@@ -1,0 +1,5 @@
+outs:
+- md5: 5fd88da7d8df35ebca1f4147b7e2b82e.dir
+  size: 7980032
+  nfiles: 1
+  path: dram
