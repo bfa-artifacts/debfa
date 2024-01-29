@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is the research artifact for the paper *"Reflections on Trusting Trust":
-On the Pervasiveness of Bit-Flip Attack Surfaces in DNN Executables*. It
-contains the code, data, and results for the paper and also enables future
+This is the research artifact for the paper *Compiled Models, Built-In
+Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables*.
+It contains the code, data, and results for the paper and also enables future
 research on the topic.
 
 Note: Currently our data (close to 100GB, including model weights, compiled
